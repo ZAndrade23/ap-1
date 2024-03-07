@@ -6,7 +6,7 @@ import About from '../AboutMe/AboutMe';
 import './App.css';
 import {
   HashRouter as Router,
-  Route, Routes,
+  Route, 
 } from "react-router-dom";
 
 function App () {
