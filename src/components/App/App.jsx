@@ -8,7 +8,6 @@ import {
   HashRouter as Router,
   Route, 
 } from "react-router-dom";
-
 function App () {
   return (
     <div>
@@ -21,7 +20,7 @@ function App () {
   <About/>
   </Route>
   </Router>
-  <h1>TO DO APP</h1>
+  {/* <h1>TO DO APP</h1>
   <div class="cater3-movingBG">
 <div class="flyinTxtCont">
 <div class="flyIn lineOne">Living</div>
@@ -29,7 +28,8 @@ function App () {
 <div class="flyIn lineThree">LifeStyle</div>
   <div class="flyIn lineFour">Powered By YOU.</div>
 </div>
-</div>
+</div> */}
+
     </div>
   );
 
