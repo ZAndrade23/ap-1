@@ -5,14 +5,11 @@
     width: 100%;
     border-collapse: collapse;
 }
-
 #pricingHeader{
-    
     background-color: #f0f0f0;
     font-weight: bold;
     text-align: center;
     padding: 10px;
-    
 }
 #pricingTd{
     border: 1px solid black;
@@ -21,20 +18,26 @@
     background-color: lightgrey;
 }
 #whyList{
+    
+    /* line-height:5vh; */
+    /* font-size:2em ; */
+    /* font-family:Comic Sans MS, Comic Sans, cursive; */
+    /* margin: 2vh; */
     text-align: center;
-    line-height:5vh;
-    font-size:30px ;
+    word-spacing:-2px ;
+    font-size:1.1em ;
     font-family:Comic Sans MS, Comic Sans, cursive;
     margin: 2vh;
+    word-spacing:-2px ;
 }
 #whyTitle{
     text-align: center;
     font-family:Comic Sans MS, Comic Sans, cursive;
     text-shadow: 1px 1px grey;
-
 }
 #aboutMeHeader{
      border-bottom:dotted;
+     margin-top: 13vh;
 }
 #weightEmote{
     text-align:center;
@@ -42,5 +45,9 @@
     font-family: monospace; 
     line-height: 0;
 }
+#aboutMeDiv{
+    height:100vh;
+}
+
 
    

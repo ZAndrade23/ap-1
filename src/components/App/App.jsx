@@ -3,6 +3,7 @@ import React from 'react';
 import Home from '../Home/Home';
 import NavBar from '../NavBar/NavBar';
 import About from '../AboutMe/AboutMe';
+import Footer from '../Footer/Footer';
 import './App.css';
 import {
   HashRouter as Router,
@@ -29,8 +30,9 @@ function App () {
   <div class="flyIn lineFour">Powered By YOU.</div>
 </div>
 </div> */}
-
+<Footer/>
     </div>
+
   );
 
 }

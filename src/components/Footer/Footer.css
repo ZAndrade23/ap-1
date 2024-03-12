@@ -1,0 +1,27 @@
+.insta-link {
+    display: flex;
+    justify-content: center;
+  }
+  
+  #instaImage {
+    width: 30px; /* Adjust the width as needed */
+    height: auto; /* Maintain aspect ratio */
+  }
+  .calander-link{
+    display: flex;
+    justify-content: center;
+  }
+  #calendarImage{
+    width: 35px; /* Adjust the width as needed */
+    height: auto; /* Maintain aspect ratio */
+    margin-left:85px;
+    margin-top:-32px;
+  }
+  #footerDiv{
+    /* background-color:lightblue ; */
+    background-image: linear-gradient(to top, blue, 1%, lightblue);
+    /* height:10vh; */
+    padding:2em;
+    margin-left: 0%;
+    margin-right:0%;
+  }
