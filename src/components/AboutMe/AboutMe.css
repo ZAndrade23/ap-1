@@ -45,9 +45,21 @@
     font-family: monospace; 
     line-height: 0;
 }
+.center-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* height: 100vh; Ensures the container takes up the full height of the viewport */
+}
+#bookConsultation {
+    /* text-decoration: none; Remove underline */
+    color: black; /* Change link color as needed */
+    font-size: 50px; /* Adjust font size as needed */
+}
 #aboutMeDiv{
     height:100vh;
 }
+
 
 
    

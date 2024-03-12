@@ -17,6 +17,11 @@ return(
                 <p><b>• Efficiency:</b> Helps optimize your time in the gym by designing efficient workouts tailored to your needs and goals.</p>
             </ul>
         </div>
+        <div class="center-container">
+        <a href="https://calendar.google.com/calendar/appointments/schedules/AcZssZ3-ObUl8bd4BLWEaBh4YEk7htce0TB-t4cFiRFXPCoUbgOsJ2MJfMvd9mN2f7v1Y7xdJbVuo5l1" id="bookConsultation">
+        <button>Book A Free Consulation! </button>
+       </a>
+        </div>
             {/* <table id="pricingTable">
                 <tr>
                     <th colSpan="2" id="pricingHeader">The Plan Powered By You</th>
